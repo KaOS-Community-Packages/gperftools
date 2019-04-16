@@ -1,5 +1,5 @@
 pkgname=gperftools
-pkgver=2.5
+pkgver=2.7
 pkgrel=1
 pkgdesc="Fast, multi-threaded malloc and nifty performance analysis tools"
 arch=('x86_64')
